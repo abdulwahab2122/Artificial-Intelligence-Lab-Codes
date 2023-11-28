@@ -10,9 +10,14 @@ Whether you're a beginner or an experienced developer, you'll find code snippets
 Contents
 The repository is organized into folders, each covering a specific AI topic. Here's an overview of the contents:
 
-01_basic_concepts: Introduction to basic AI concepts.
-02_machine_learning: Implementations of machine learning algorithms.
-03_deep_learning: Deep learning models and frameworks.
-04_nlp: Natural Language Processing examples.
-05_computer_vision: Computer vision algorithms and projects.
+01 basic_concepts: Introduction to basic AI concepts.
+
+02 machine_learning: Implementations of machine learning algorithms.
+
+03 deep_learning: Deep learning models and frameworks.
+
+04 nlp: Natural Language Processing examples.
+
+05 computer_vision: Computer vision algorithms and projects.
+
 Feel free to explore and experiment with the code in each directory.
